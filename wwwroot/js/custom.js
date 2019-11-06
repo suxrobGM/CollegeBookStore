@@ -163,6 +163,7 @@ jQuery(document).ready(function($) {
             for (var i = 0; i < $responsiveSettingLength; i++) {
                 $responsiveArray[i] = $responsiveSetting[i];
             }
+
             /*Slider Start*/
             $this.slick({
                 autoplay: $autoPlay,
