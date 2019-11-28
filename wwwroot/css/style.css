@@ -1376,7 +1376,7 @@ p.form-row-phone {
 }
 .info {
   display: inline-block;
-  float: left;
+  /* float: left; */
   margin-left: 12px;
 }
 .info h3 {
